@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
 
-int
-main()
+int main()
 {
     string name; // строка - имя
     std::cout << "Enter your name: ";
